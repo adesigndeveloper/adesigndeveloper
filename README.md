@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Sharma
-- 🌱 I’m currently learning flutter
+- 🌱 Software Developer (PHP Laravel, MERN Stack Developer, Flutter App Developer)
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me, through WhatsApp +917014660763 And Website: www.thewebpino.com
 
